@@ -53,7 +53,7 @@ Train the optimized model and evaluate its performance.
 ## Installation
 Clone the repository:
 
-git clone https://github.com/your-username/crop-prediction.git
+git clone https://github.com/youssefazazy-ai/crop-prediction.git
 cd crop-prediction
 ## Install the required libraries:
 
